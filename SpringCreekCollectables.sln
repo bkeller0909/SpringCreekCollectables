@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringCreekCollectables", "SpringCreekCollectables\SpringCreekCollectables.csproj", "{A70C4BA1-EE98-4311-9714-8558CD300E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70C4BA1-EE98-4311-9714-8558CD300E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70C4BA1-EE98-4311-9714-8558CD300E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70C4BA1-EE98-4311-9714-8558CD300E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70C4BA1-EE98-4311-9714-8558CD300E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B27DA2-10B6-46D5-BBF2-99B1C5525B9F}
+	EndGlobalSection
+EndGlobal
